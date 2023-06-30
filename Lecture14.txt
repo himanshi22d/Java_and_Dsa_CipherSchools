@@ -1,5 +1,7 @@
 Normally, an array is a collection of similar type of elements which has a contiguous memory location.
 
+The array is an indexed collection of a finite number of homogenous elements.
+
 Java array is an object which contains elements of a similar data type. 
 Additionally, The elements of an array are stored in a contiguous memory location.
 It is a data structure where we store similar elements.
